@@ -1,7 +1,7 @@
 # CitiBike
 ### Problem:
 
-New York Citi Bike Citibike is the largest bike sharing program in the United States. 
+New York Citi Bike (Citibike) is the largest bike sharing program in the United States. 
 
 This project involves generating regular reports for city officials looking to publicize and improve the city program. 
 
@@ -65,4 +65,6 @@ Design visualizations for City Officials and explore the data for decision maker
 https://public.tableau.com/app/profile/khanh.le7588/viz/Citibike_Final/Tripqtypermonth
 
 
+### ETL Process:
 
+The data cleaning files were too large to upload to the git-hub repo but were cleaned and transformed, sorted by using Jupyter Notebook.
