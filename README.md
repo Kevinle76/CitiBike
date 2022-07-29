@@ -14,7 +14,8 @@ Design visualizations for City Officials and explore the data for decision maker
 
 1. Overview of CitiBike during 2H2020.
 
-![image](https://user-images.githubusercontent.com/100891182/181768358-08592b6b-3577-40fc-a82b-5de66388b313.png)
+![image](https://user-images.githubusercontent.com/100891182/181768655-1d4b6c58-8eba-45cc-a1ea-efe82839ee72.png)
+
 
 
 2. How were bike trips per month? 
