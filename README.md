@@ -38,8 +38,8 @@ Design visualizations for City Officials and explore the data for decision maker
 
 6. What was the most popular trip?
 
+![image](https://user-images.githubusercontent.com/100891182/181777651-c463d60d-8583-4737-bde1-2439ca3f3fdd.png)
 
-![image](https://user-images.githubusercontent.com/100891182/181777060-33255d2b-14ef-4d5a-8521-5d3f699aecbf.png)
 
 7. When was the peak hour of use?
  
