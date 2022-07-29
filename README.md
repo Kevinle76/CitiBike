@@ -7,4 +7,4 @@ This project involves generating regular reports for city officials looking to p
 
 The data includes bike id's, rider types, dates, times, and station names.
 
-Datasets: Bike data is collected, organized, and made public on the Citi Bike Data webpage.
+Datasets: Bike data is collected, organized, and made public on the Citi Bike Data webpage (https://ride.citibikenyc.com/system-data)
