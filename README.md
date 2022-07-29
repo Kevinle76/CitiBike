@@ -33,13 +33,13 @@ Design visualizations for City Officials and explore the data for decision maker
 
 5. Where were the bikes most frequently returned?
 
-![image](https://user-images.githubusercontent.com/100891182/181769245-cc166707-8199-4f91-8609-9ff274351f03.png)
+![image](https://user-images.githubusercontent.com/100891182/181776826-3dd299f1-3baf-4067-97c4-0c3277637773.png)
 
 
 6. What was the most popular trip?
 
-![image](https://user-images.githubusercontent.com/100891182/181769362-76de1a8d-8801-45e6-a340-c02a9aa732d2.png)
 
+![image](https://user-images.githubusercontent.com/100891182/181777060-33255d2b-14ef-4d5a-8521-5d3f699aecbf.png)
 
 7. When was the peak hour of use?
  
